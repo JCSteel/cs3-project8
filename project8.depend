@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1572887052 source:c:\users\jarod\documents\cs3-project8\project8\src\hashtable.cpp
+	"hashTable.h"
+
+1572887507 c:\users\jarod\documents\cs3-project8\project8\include\hashtable.h
+
+1572887977 source:c:\users\jarod\documents\cs3-project8\project8\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
